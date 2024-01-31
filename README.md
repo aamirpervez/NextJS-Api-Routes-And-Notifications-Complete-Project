@@ -1,3 +1,15 @@
+Run Command to install all package sfirst, before running the project.
+
+npm install
+
+Don't forget to add your own db credentials in api-util.js file, in helper folder.
+You need to create a DB mongocloud and pass the connection link in that file at line number (60).
+
+Thanks, enjoy this project ;-)
+
+
+Here are the instrcutions to work with new project in Next JS.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
